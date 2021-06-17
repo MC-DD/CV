@@ -32,8 +32,8 @@ header div{
 
 .mail{
     position: absolute;
-    top : 25%;
-    left : 75%;
+    top : 18%;
+    left : 72%;
     color: #001c31;
     font-weight: normal;
     font-style: normal;  
@@ -41,7 +41,7 @@ header div{
 
 .num{
     position: absolute;
-    top : 25%;
+    top : 40%;
     left : 20%;
     color: #001c31;
     font-weight: normal;
@@ -50,8 +50,14 @@ header div{
 
 .linkedin{
     position: absolute;
-    top : 24%;
-    left : 5%;
+    top : 17%;
+    left : 20%;
+}
+
+.github{
+    position: absolute;
+    top : 17%;
+    left : 47%;
 }
 
 .resume{
@@ -69,7 +75,7 @@ aside p{
     text-decoration: none;}
 
 .nom{
-    padding-top: 10%;
+    padding-top:2%;
     padding-left: 42%;
     font-size: 28px;
     line-height: 45px;}
